@@ -109,6 +109,3 @@ p2 <- plot_data %>%
   
 
 plot_grid(p1, p2, ncol = 2, rel_widths = c(7.5/12, 4.5/12))
-
-plot_grid(p1, p2, nrow = 2, rel_widths = c(7.5/12, 4.5/12))
-
