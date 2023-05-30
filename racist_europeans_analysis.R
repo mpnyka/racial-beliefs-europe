@@ -4,8 +4,6 @@ library(janitor)
 library(countrycode)
 library(survey) 
 library(srvyr)
-library(questionr)
-library(cowplot)
 
 
 setwd("~/Desktop/Sociology/Dissertation/Analysis/ESS analysis")
